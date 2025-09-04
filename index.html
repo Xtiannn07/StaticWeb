@@ -7,42 +7,76 @@
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <!-- Header -->
-  <header>
+<!-- Header -->
+<header>
     <div class="container">
-      <div class="header-content">
-        <div class="contact-info">
-          +1 (714) 634-1414
-        </div>
-        <nav>
-          <ul>
-            <li><a href="#home">Our Practice</a></li>
-            <li><a href="#philosophy">Philosophy</a></li>
-            <li><a href="#about">About Us</a></li>
-            <li><a href="#contact">Contacts</a></li>
-            <li><a href="#blog">Blog</a></li>
-          </ul>
-        </nav>
-        <div class="logo">G&V</div>
-      </div>
-    </div>
-  </header>
+        <div class="header-content">
+            <!-- Left side - Contact and Navigation -->
+            <div class="left-section">
+                <div class="contact-info">
+                    +1 (714) 634-1414
+                </div>
+                <!-- Left Navigation -->
+                <nav class="nav-left">
+                    <ul>
+                        <li><a href="#practice">OUR PRACTICE</a></li>
+                        <li><a href="#philosophy">PHILOSOPHY</a></li>
+                        <li><a href="#about">ABOUT US</a></li>
+                    </ul>
+                </nav>
+            </div>
 
-  <!-- Hero Section -->
-  <section class="hero" id="home">
-    <div class="container">
-      <div class="hero-content">
-        <div class="hero-text">
-          <p>Gole & Vallance</p>
-          <h1>We are here for you... When you need us.</h1>
-          <a href="#about" class="btn">Learn More</a>
+            <!-- Center - Logo -->
+            <div class="logo-container">
+                <div class="logo">
+                    <img src="assets/logo.png" alt="Gole & Vallance Logo" class="logo-image">
+                </div>
+            </div>
+
+            <!-- Right side - Navigation, Icons and Search -->
+            <div class="right-section">
+                <!-- Right Navigation -->
+                <nav class="nav-right">
+                    <ul>
+                        <li><a href="#contact">CONTACTS</a></li>
+                        <li><a href="#blog">BLOG</a></li>
+                    </ul>
+                </nav>
+                <div class="icons">
+                    <!-- Yelp icon -->
+                    <a href="#" class="icon" title="Yelp">
+                        <img src="assets/yelp.png" alt="Yelp" class="icon-image">
+                    </a>
+                    <!-- Google icon -->
+                    <a href="#" class="icon" title="Google">
+                        <img src="assets/google.png" alt="Google" class="icon-image">
+                    </a>
+                </div>
+                <div class="search-container">
+                    <input type="text" class="search-input" placeholder="search">
+                    <span class="search-icon">🔍</span>
+                </div>
+            </div>
         </div>
-        <div class="hero-image">
-          <img src="assets/Hero.png" alt="Professional Attorney" />
-        </div>
+    </div>
+</header>
+
+<!-- Hero Section -->
+<section class="hero" id="home">
+  <div class="hero-overlay"></div>
+  <div class="container">
+    <div class="hero-content">
+      <div class="hero-text">
+        <p>Gole & Vallance</p>
+        <h1>We are here for you...</h1>
+        <h1> When you need us.</h1>
+        <a href="#about" class="btn">Learn More</a>
       </div>
     </div>
-  </section>
+  </div>
+</section>
+
+
 
   <!-- About Section -->
   <section class="about" id="about">
@@ -61,28 +95,12 @@
         </div>
         <div class="services-grid">
           <div class="service-card">
-            <img src="assets/icon1.png" alt="Consultation Icon" />
-            <h3>Consultation Formation & Business Disputes</h3>
-            <p>Expert guidance for business formation and dispute resolution.</p>
+            <h3>Corporation Formation & Business Entities</h3>
           </div>
           <div class="service-card">
-            <img src="assets/icon2.png" alt="Corporate Record Icon" />
-            <h3>Corporate Record & Maintenance</h3>
-            <p>Comprehensive corporate record keeping and maintenance services.</p>
+            <h3>Corporate Record Management</h3>
           </div>
         </div>
-      </div>
-    </div>
-  </section>
-
-
-
-  <!-- Video Section -->
-  <section class="video-section">
-    <div class="container">
-      <div class="video-placeholder">
-        <img src="assets/video.png" alt="Video" />
-        <div class="play-button"></div>
       </div>
     </div>
   </section>
@@ -91,18 +109,15 @@
 
   <!-- CTA Section -->
   <section class="cta-section">
-    <div class="container">
-      <div class="cta-content">
-        <div class="cta-text">
-          <h2>OVERWHELMED WITH THE LEGAL ASPECTS OF SETTING UP YOUR BUSINESS?</h2>
-          <p>Don't know what to do with one the aspect huge</p>
-          <a href="#" class="btn">Get Help Today</a>
-        </div>
-        <div class="cta-image">
-          <img src="assets/cta1.png" alt="CTA" />
-          <p>We are specialist attorneys who focus on the needs of small business owners</p>
-          <a href="#" class="btn">GET HELP TO SET UP YOUR BUSINESS TODAY</a>
-        </div>
+    <div class="cta-content">
+      <div class="cta-text">
+        <h2>OVERWHELMED WITH THE LEGAL ASPECTS OF SETTING UP YOUR BUSINESS?</h2>
+        <p>Need help to set up your business the smart way?</p>
+        <a href="#" class="btn">Get Help Today</a>
+      </div>
+      <div class="cta-image">
+        <p>We are specialist attorneys who focus on the needs of small business owners</p>
+        <a href="#" class="btn">GET HELP TO SET-UP YOUR BUSINESS TODAY</a>
       </div>
     </div>
   </section>
