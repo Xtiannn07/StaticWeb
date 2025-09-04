@@ -1,0 +1,844 @@
+
+<!doctype html>
+<html lang="en-US" class="no-js">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Gale and Vallance Attorneys at Law : Gale and Vallance Attorneys at Law</title><link rel="preload" data-rocket-preload as="image" href="https://galeandvallance.com/wp-content/themes/gnv2023/images/small%20business%20attorneys%20gale%20and%20vallance.png" fetchpriority="high">
+
+    <link href="https://galeandvallance.com/wp-content/themes/gnv2023/favicon.png" rel="shortcut icon">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<script type="text/javascript">
+var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function(){gform.scriptsLoaded=!0}),window.addEventListener("DOMContentLoaded",function(){gform.domLoaded=!0}),gform={domLoaded:!1,scriptsLoaded:!1,initializeOnLoaded:function(o){gform.domLoaded&&gform.scriptsLoaded?o():!gform.domLoaded&&gform.scriptsLoaded?window.addEventListener("DOMContentLoaded",o):document.addEventListener("gform_main_scripts_loaded",o)},hooks:{action:{},filter:{}},addAction:function(o,n,r,t){gform.addHook("action",o,n,r,t)},addFilter:function(o,n,r,t){gform.addHook("filter",o,n,r,t)},doAction:function(o){gform.doHook("action",o,arguments)},applyFilters:function(o){return gform.doHook("filter",o,arguments)},removeAction:function(o,n){gform.removeHook("action",o,n)},removeFilter:function(o,n,r){gform.removeHook("filter",o,n,r)},addHook:function(o,n,r,t,i){null==gform.hooks[o][n]&&(gform.hooks[o][n]=[]);var e=gform.hooks[o][n];null==i&&(i=n+"_"+e.length),gform.hooks[o][n].push({tag:i,callable:r,priority:t=null==t?10:t})},doHook:function(n,o,r){var t;if(r=Array.prototype.slice.call(r,1),null!=gform.hooks[n][o]&&((o=gform.hooks[n][o]).sort(function(o,n){return o.priority-n.priority}),o.forEach(function(o){"function"!=typeof(t=o.callable)&&(t=window[t]),"action"==n?t.apply(null,r):r[0]=t.apply(null,r)})),"filter"==n)return r[0]},removeHook:function(o,n,t,i){var r;null!=gform.hooks[o][n]&&(r=(r=gform.hooks[o][n]).filter(function(o,n,r){return!!(null!=i&&i!=o.tag||null!=t&&t!=o.priority)}),gform.hooks[o][n]=r)}});
+</script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="You Local Orange County Legal Firm">
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/71e0fb92403f3cd2258ffb0b/script.js"></script>
+	<!-- This site is optimized with the Yoast SEO plugin v20.3 - https://yoast.com/wordpress/plugins/seo/ -->
+	<link rel="canonical" href="https://galeandvallance.com/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Gale and Vallance Attorneys at Law" />
+	<meta property="og:url" content="https://galeandvallance.com/" />
+	<meta property="og:site_name" content="Gale and Vallance Attorneys at Law" />
+	<meta property="article:modified_time" content="2023-03-24T10:25:14+00:00" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://galeandvallance.com/","url":"https://galeandvallance.com/","name":"Gale and Vallance Attorneys at Law","isPartOf":{"@id":"https://galeandvallance.com/#website"},"about":{"@id":"https://galeandvallance.com/#organization"},"datePublished":"2013-05-22T05:51:11+00:00","dateModified":"2023-03-24T10:25:14+00:00","breadcrumb":{"@id":"https://galeandvallance.com/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://galeandvallance.com/"]}]},{"@type":"BreadcrumbList","@id":"https://galeandvallance.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://galeandvallance.com/#website","url":"https://galeandvallance.com/","name":"Gale and Vallance Attorneys at Law","description":"You Local Orange County Legal Firm","publisher":{"@id":"https://galeandvallance.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://galeandvallance.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://galeandvallance.com/#organization","name":"Gale and Vallance","url":"https://galeandvallance.com/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://galeandvallance.com/#/schema/logo/image/","url":"https://galeandvallance.com/wp-content/uploads/2013/06/logo.png","contentUrl":"https://galeandvallance.com/wp-content/uploads/2013/06/logo.png","width":211,"height":189,"caption":"Gale and Vallance"},"image":{"@id":"https://galeandvallance.com/#/schema/logo/image/"},"sameAs":["http://www.yelp.com/biz/gale-and-vallance-attorneys-at-law-orange"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.google.com' />
+
+<link rel="alternate" type="application/rss+xml" title="Gale and Vallance Attorneys at Law &raquo; Welcome to our site Comments Feed" href="https://galeandvallance.com/you-local-orange-county-legal-firm/feed/" />
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://galeandvallance.com/wp-includes/css/dist/block-library/style.min.css?ver=6.0.10' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='normalize_css-css'  href='https://galeandvallance.com/wp-content/themes/gnv2023/css/normalize.min.css?ver=6.0.10' type='text/css' media='all' />
+<link rel='stylesheet' id='bx-slider_css-css'  href='https://galeandvallance.com/wp-content/themes/gnv2023/css/jquery.bxslider.min.css?ver=6.0.10' type='text/css' media='all' />
+<link rel='stylesheet' id='main_css-css'  href='https://galeandvallance.com/wp-content/themes/gnv2023/style.css?ver=6.0.10' type='text/css' media='all' />
+<link rel='stylesheet' id='scss-css'  href='https://galeandvallance.com/wp-content/cache/busting/1/sccss.css?ver=1709255415' type='text/css' media='all' />
+<link rel='stylesheet' id='sti-style-css'  href='https://galeandvallance.com/wp-content/plugins/share-this-image-pro/assets/css/sti.css?ver=1.67' type='text/css' media='all' />
+<style id='rocket-lazyload-inline-css' type='text/css'>
+.rll-youtube-player{position:relative;padding-bottom:56.23%;height:0;overflow:hidden;max-width:100%;}.rll-youtube-player:focus-within{outline: 2px solid currentColor;outline-offset: 5px;}.rll-youtube-player iframe{position:absolute;top:0;left:0;width:100%;height:100%;z-index:100;background:0 0}.rll-youtube-player img{bottom:0;display:block;left:0;margin:auto;max-width:100%;width:100%;position:absolute;right:0;top:0;border:none;height:auto;-webkit-transition:.4s all;-moz-transition:.4s all;transition:.4s all}.rll-youtube-player img:hover{-webkit-filter:brightness(75%)}.rll-youtube-player .play{height:100%;width:100%;left:0;top:0;position:absolute;background:url(https://galeandvallance.com/wp-content/plugins/rocket-lazy-load/assets/img/youtube.png) no-repeat center;background-color: transparent !important;cursor:pointer;border:none;}
+</style>
+<script type='text/javascript' src='https://galeandvallance.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://galeandvallance.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://galeandvallance.com/wp-content/themes/gnv2023/js/my-custom-js.js?ver=6.0.10' id='get_custom_script-js'></script>
+<script type='text/javascript' src='https://galeandvallance.com/wp-content/themes/gnv2023/js/jquery.bxslider.min.js?ver=6.0.10' id='get_bxslider-script-js'></script>
+<link rel="https://api.w.org/" href="https://galeandvallance.com/wp-json/" /><link rel="alternate" type="application/json" href="https://galeandvallance.com/wp-json/wp/v2/pages/6" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://galeandvallance.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://galeandvallance.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 6.0.10" />
+<link rel='shortlink' href='https://galeandvallance.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://galeandvallance.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgaleandvallance.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://galeandvallance.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgaleandvallance.com%2F&#038;format=xml" />
+<script type="text/javascript">var ajaxurl = "https://galeandvallance.com/wp-admin/admin-ajax.php";</script>
+		<!-- GA Google Analytics @ https://m0n.co/ga -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-46643000-1"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'UA-46643000-1');
+		</script>
+
+	<div class='review-badge-container'><div class='show-review'><span class='our-reviews'>See Our Reviews </span> <br>  <img src='https://galeandvallance.com/wp-content/plugins/hwp_review_badge/images/5-stars.png'> </span> </div><div class='review-badge'><div class='control'>x</div><br /><a target='_blank' title='See our Yelp Review' href='https://www.yelp.com/biz/gale-and-vallance-attorneys-at-law-orange'><div class='yelp-badge'><span class='reviews'> 39 Yelp Reviews </span><p><span class='star yelp-star'>5.0</span> <img src='https://galeandvallance.com/wp-content/plugins/hwp_review_badge/images/yelp/5-stars.png'> </p></div></a><br /><a target='_blank' title='See our Google Review' href='https://www.google.com/search?client=safari&rls=en&q=Gale+Valance+Orange+ca&ie=UTF-8&oe=UTF-8#lrd=0x80dcd77bfe4c4dc7:0x6dddb7e261137a12,1'><div class='google-badge'><span class='reviews'> 20 Google Reviews </span><p><span class='star google-star'>5.0</span> <img src='https://galeandvallance.com/wp-content/plugins/hwp_review_badge/images/5-stars.png'></p></div></a></div></div><script type="application/ld+json">
+  {
+    "@context": "http://schema.org/",
+    "@type": "Service",
+    "name": "Gale and Vallance Attorney at Law",
+    "url": "https://galeandvallance.com/",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "bestRating": "5",
+        "reviewCount": "31"
+        }
+  }
+</script>
+  
+<!-- GA4 Added 3-17-2023 -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-73Z4RS9BS6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-73Z4RS9BS6');
+</script>
+
+<!-- Clarity app | Added by Romwil 10-4-2023 -->
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "j5a9knlnpe");
+</script><style id="sccss">/* Enter Your Custom CSS Here */
+
+/*Google Recaptcha v3*/
+.grecaptcha-badge {
+	z-index: 9999;
+} 
+ 
+
+.gform_wrapper input:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file]) {
+    overflow: hidden;
+    width: auto;
+}
+
+.hidden-br br {
+    display: none;
+}
+
+#text-7, #text-9 { margin-bottom: 0 !important;}
+
+.wpcf7-captcha-captcha-353 { width: auto !important;}
+
+/*Google Recaptcha CSS adjustment*/
+.cf7sr-g-recaptcha {
+    transform: scale(0.77);
+    -webkit-transform: scale(0.65);
+    transform-origin: 0 0;
+    -webkit-transform-origin: 0 0;
+    position: relative;
+    left: 13px;
+    top: 10px;
+}
+
+#secondary span.wpcf7-not-valid-tip {
+    left: 16px;
+    position: relative;
+}
+
+/*Google Recaptcha CSS adjustment - Gravity Forms */
+
+#field_3_7 {
+	transform-origin: left;
+transform: scale(0.65);
+	
+}</style><noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript></head>
+
+<body>
+
+
+    <header>
+
+        <div class="container-full">
+            <!-- <nav class="header-nav">
+                <ul>
+                    <li><a href="tel:+17146341414"> +1 (714) 634-1414 </a> </li>
+                    <li><a href="#"> Our Practice</a></li>
+                    <li><a href="#"> Philosophy</a></li>
+                    <li><a href="#"> About Us</a></li>
+                    <li><a href="#"> Logo </a></li>
+                    <li><a href="#"> Contacts</a></li>
+                    <li><a href="#"> Blog </a></li>
+                    <li> <a target="_blank" href="http://www.yelp.com/biz/gale-and-vallance-attorneys-at-law-orange">
+                            Yelp </a>
+                    </li>
+                    <li> <a target="_blank"
+                            href="https://www.google.com/search?client=safari&rls=en&q=Gale%26+Valance+Orange+ca&ie=UTF-8&oe=UTF-8#lrd=0x80dcd77bfe4c4dc7:0x6dddb7e261137a12,1">
+                            Google </a> </li>
+                    <li><a href="#"> Search </a></li>
+                </ul>
+            </nav> -->
+
+        </div>
+
+
+
+        <div class="top-nav-container">
+
+            <div class="container">
+
+
+                <!-- <div class=" top-social-media-1024">
+                    <img src="https://galeandvallance.com/wp-content/themes/gnv2023/images/gale and vallance contact.png"
+                        alt="gale and vallance contact">
+
+                    <img src="https://galeandvallance.com/wp-content/themes/gnv2023/images/contact corporate lawyers gale and vallance.png"
+                        alt="contact corporate lawyers gale and vallance">
+                </div> -->
+
+
+                <div class="flex-header">
+
+                    <div class="flex-header-1024">
+                        <div class="contact-1024">
+                            <a href="tel:+17146341414"> <img
+                                    src="https://galeandvallance.com/wp-content/themes/gnv2023/images/call gale and vallance for corporate formation.png">
+                                +1 (714) 634-1414 </a>
+                        </div>
+                        <div class="responsive-menu">
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </div>
+                        <!-- responsive menu -->
+
+                    </div>
+                    <!-- flex header-1024 -->
+
+                    <nav class="top-nav">
+                        <div class="phone-number"><a href="tel:+17146341414"> +1 (714) 634-1414 </a> </div>
+                                                <ul id="menu-main" class=""><li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="https://galeandvallance.com/our-practice/">Our Practice</a></li>
+<li id="menu-item-75" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="https://galeandvallance.com/philosophy/company-philosophy/">Philosophy</a></li>
+<li id="menu-item-582" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-582"><a href="https://galeandvallance.com/about-the-firm/">About Us</a></li>
+<li id="menu-item-583" class="logo menu-item menu-item-type-custom menu-item-object-custom menu-item-583"><a>Logo</a></li>
+<li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="https://galeandvallance.com/contacts/">Contacts</a></li>
+<li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="https://galeandvallance.com/blog/">Blog</a></li>
+</ul>                        <div class="top-social-media">
+                            <a target="_blank" href="http://www.yelp.com/biz/gale-and-vallance-attorneys-at-law-orange">
+                                <img src="https://galeandvallance.com/wp-content/themes/gnv2023/images/gale and vallance contact.png"
+                                    alt="gale and vallance contact"> </a>
+
+                            <a target="_blank"
+                                href="https://www.google.com/search?client=safari&rls=en&q=Gale%26+Valance+Orange+ca&ie=UTF-8&oe=UTF-8#lrd=0x80dcd77bfe4c4dc7:0x6dddb7e261137a12,1">
+                                <img src="https://galeandvallance.com/wp-content/themes/gnv2023/images/contact corporate lawyers gale and vallance.png"
+                                    alt="contact corporate lawyers gale and vallance"> </a>
+                        </div>
+                        <div class="search-form">
+                            <form action="https://galeandvallance.com/">
+                                <input type="search" name="s" placeholder="search">
+                                <input type="submit" value="">
+                            </form>
+                        </div>
+                    </nav>
+
+
+                    <div class="header-logo"><a
+                            title="Gale & Vallance Attorneys at Law  &#13;1820 W Orangewood Ave Ste 104b &#13;Orange, California 92868-2059  &#13;+1 (714) 634-1414"
+                            href="https://galeandvallance.com"><img class="dontshow"
+                                src="https://galeandvallance.com/wp-content/themes/gnv2023/images/corporate lawyers gale and vallance.png"
+                                alt="corporate lawyers gale and vallance"></a></div>
+
+
+
+                </div>
+                <!-- flex header -->
+
+
+            </div>
+            <!-- container -->
+
+        </div>
+        <!-- top-nav-container -->
+
+
+    </header><!-- Section -->
+
+
+<section class="section-banner">
+    <img cl;ass="dontshow" style="position:absolute;opacity:0;width:100%;height:100%;top:0;left:0"
+        src="https://galeandvallance.com/wp-content/themes/gnv2023/images/small business attorneys gale and vallance.png"
+        alt="Gale And Vallance Attorney At Law">
+    <div class="container">
+
+        <div class="contain">
+
+            <div class="logo-pages">
+    <a href="https://galeandvallance.com"><img class="dontshow logo-1024" title="Gale &amp; Vallance Attorneys at Law  
+1820 W Orangewood Ave Ste 104b 
+Orange, California 92868-2059  
++1 (714) 634-1414" src="https://galeandvallance.com/wp-content/themes/gnv2023/images/corporate lawyers gale and vallance.png"
+            alt="corporate lawyers gale and vallance"></a>
+</div>
+            <p> Gale & Vallance </p>
+
+            <h1> We are here for you... <br>
+                When you need us.</h1>
+
+            <p class="button"> <a href="https://galeandvallance.com/about-the-firm/"> Learn More </a></p>
+        </div>
+
+    </div>
+</section>
+
+<section class="section-featured-content">
+    <div class="container">
+        <div class="flex-contain">
+            <div class="box box-1">
+
+                <div class="contain">
+                    <h1> We think creatively and strategically about your legal matter.</h1>
+
+                    <p>We look to see how we can serve your long-term interests, and not just the problem of the moment.
+                        We
+                        are
+                        your trusted advisors in the fullest sense of the word.</p>
+
+                    <p> We pride ourselves on our integrity, client relationships, and ability to succeed for our
+                        clients.
+                    </p>
+
+                    <p>We started our own practice because we believed we could create a different kind of law firm. We
+                        are
+                        not
+                        stuffy, arrogant, or closed-minded. We created a firm where lawyers could think differently. Act
+                        differently. Be themselves.</p>
+
+                    <p>Our clients do not want lawyers who win at all costs. Our clients want winners that calculate
+                        costs.
+                        We
+                        work
+                        together with our clients as one team, leveraging our combined strengths where they will have
+                        the
+                        greatest
+                        impact.</p>
+
+                    <div class="call-us">
+                        <p> Call Us Now </p>
+                        <p class="phone"> <a href="tel:+17146341414"> +1 (714) 634-1414 </a></p>
+                    </div>
+                </div>
+
+            </div>
+            <div class="box box-2">
+                <div>
+                    <img class="dontshow"
+                        src="https://galeandvallance.com/wp-content/themes/gnv2023/images/attorneys for corporate formation.png"
+                        alt="attorneys for corporate formation">
+                    <p> corporation formation <br>& business entities </p>
+                </div>
+
+                <div>
+                    <img class="dontshow"
+                        src="https://galeandvallance.com/wp-content/themes/gnv2023/images/corporate record management.png"
+                        alt="corporate record management">
+                    <p> corporate record <br>
+                        management </p>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+<section class="section-testimonial">
+    <div class="container">
+        <div class="contain">
+            <p> CLIENT TESTIMONIALS </p>
+            <div class="slider">
+                <div>
+                    <h3> These guys are great. Andy and his team was on point and very helpful throughout the whole
+                        process.
+                        Very lucky to find them and highly recommend them to anyone looking to start a new company.
+                    </h3>
+                    <p class="author"> Felipe C. via <img src='https://galeandvallance.com/wp-content/themes/gnv2023/images/yelp.png'></p>
+                </div>
+
+                <div>
+                    <h3>Andy and Jaymee were so unbelievably professional and helpful. I absolutely cannot recommend
+                        them enough. Jaymee provided thorough updates and instructions every step of the way. She really
+                        surprised me with how quickly she got it all done too.
+                    </h3>
+                    <p class="author"> Ashley Brown via <img src='https://galeandvallance.com/wp-content/themes/gnv2023/images/google.png'></p>
+                </div>
+
+                <div>
+                    <h3> Professional in every way, knows their stuff, great listeners, gets results, and you leave
+                        their knowing you've got your money's worth.
+                    </h3>
+                    <p class="author">David Bauers via <img src='https://galeandvallance.com/wp-content/themes/gnv2023/images/yelp.png'></p>
+                </div>
+
+                <div>
+                    <h3>Attorney Andy Gale assisted me recently on a professional corporation matter, and I cannot say
+                        enough how thankful I am to have found him. Andy is a 100% professional. He is extremely adept
+                        in this area of law, which is complicated in that a variety of requirements apply that are found
+                        in disparate locations.
+                    </h3>
+                    <p class="author"> Amanda Drukker via <img src='https://galeandvallance.com/wp-content/themes/gnv2023/images/google.png'></p>
+                </div>
+
+
+                <div>
+                    <h3> Everyone at this law firm was extremely responsive and helpful with the creation of my
+                        S-corporation. I gave Andy and team a reasonably short deadline and they completed every step
+                        along the way ahead of schedule.
+
+                    </h3>
+                    <p class="author"> James R. via <img src='https://galeandvallance.com/wp-content/themes/gnv2023/images/yelp.png'></p>
+                </div>
+
+
+                <div>
+                    <h3> Helpful and personable. Very knowledge with very reasonable full service delivery.
+                        High level of communication and availability.
+                        Great network of referrals for other services.
+                    </h3>
+                    <p class="author">T Bey via <img src='https://galeandvallance.com/wp-content/themes/gnv2023/images/google.png'></p>
+                </div>
+
+
+
+                <div>
+                    <h3> My husband and I had the idea to start our own law firm. Andrew Gale and his amazing,
+                        professional, hardworking staff got us up and running and transformed into A Professional
+                        Corporation seemingly overnight! After just a week or two, they had taken care of everything.
+
+                    </h3>
+                    <p class="author"> Joye Danes D. via <img src='https://galeandvallance.com/wp-content/themes/gnv2023/images/yelp.png'></p>
+                </div>
+
+                <div>
+                    <h3> Andrew Gale and his team were wonderful to work with. I was looking for an attorney to help me
+                        move my speech therapy practice to a corporation. I liked that Andrew had experience working
+                        with other therapists and was extremely knowledgeable.
+                    </h3>
+                    <p class="author"> Leah H. via <img src='https://galeandvallance.com/wp-content/themes/gnv2023/images/google.png'></p>
+                </div>
+
+
+                <div>
+                    <h3> These guys are great. Andy and his team was on point and very helpful throughout the whole
+                        process. Very lucky to find them and highly recommend them to anyone looking to start a new
+                        company.
+                    </h3>
+                    <p class="author"> John B. via <img src='https://galeandvallance.com/wp-content/themes/gnv2023/images/yelp.png'></p>
+                </div>
+
+
+                <div>
+                    <h3> Andy Gale was Extremely Professional, answered all my questions and gave me so much information
+                        I needed. I would recommend him to anyone looking for a incorporation Lawyer.
+                    </h3>
+                    <p class="author"> Aj Mg via <img src='https://galeandvallance.com/wp-content/themes/gnv2023/images/google.png'></p>
+                </div>
+
+
+                <div>
+                    <h3> I never understood how a living trust worked. The office manager Connie Cuevas really went out
+                        of her way to explain to me why and how I should go about as to having a living trust prepared
+                        for my security.
+                    </h3>
+                    <p class="author"> Felipe C. via <img src='https://galeandvallance.com/wp-content/themes/gnv2023/images/yelp.png'></p>
+                </div>
+
+
+
+                <div>
+                    <h3> Just started using their services and so far I have been pleased. I will post an update in a
+                        few months after I have used them more.
+                    </h3>
+                    <p class="author">Ryan G via <img src='https://galeandvallance.com/wp-content/themes/gnv2023/images/google.png'></p>
+                </div>
+
+
+                <div>
+                    <h3> Andrew Gale and his team were timely and responsive in creating my corporation. They took care
+                        of all the paperwork and made the whole process seem simple, when trying to do it yourself is a
+                        pain. Worth every penny! Highly recommended.
+                    </h3>
+                    <p class="author"> Ariana L. via <img src='https://galeandvallance.com/wp-content/themes/gnv2023/images/yelp.png'></p>
+                </div>
+
+
+                <div>
+                    <h3> Not only did they make our process of incorporating very simple, they went the extra mile and
+                        followed up with us on a daily basis to let us know what our next step should be. You may think
+                        that forming your company through a website on you're own may be easy, it's actually very
+                        complicated.
+                    </h3>
+                    <p class="author"> Walter Pineda via <img src='https://galeandvallance.com/wp-content/themes/gnv2023/images/google.png'></p>
+                </div>
+
+
+                <div>
+                    <h3> I can't say enough good things about the attorneys here! Andy Gale and Chelsea Murray did my
+                        family's will and trust and did a wonderful job! They are both extremely smart and professional.
+
+                    </h3>
+                    <p class="author"> Don K. via <img src='https://galeandvallance.com/wp-content/themes/gnv2023/images/yelp.png'></p>
+                </div>
+
+
+                <!-- <div>
+                    <h3> I own a CPA firm and have worked on clients jointly with Andy Gale and I have other colleagues
+                        that do as well. I don't refer to just anyone, so it means a lot when I say that Andy Gale is
+                        exceptional. Not only is he very knowledgeable, but the most impressive thing is his prompt
+                        communication.
+                    </h3>
+                    <p class="author"> Jimmy T. via <img src='https://galeandvallance.com/wp-content/themes/gnv2023/images/yelp.png'></p>
+                </div> -->
+
+
+                <div>
+                    <h3> Andy and Jaymee were so unbelievably professional and helpful. I absolutely cannot recommend
+                        them enough. Jaymee provided thorough updates and instructions every step of the way. She really
+                        surprised me with how quickly she got it all done too.
+                    </h3>
+                    <p class="author"> Ashley Brown via <img src='https://galeandvallance.com/wp-content/themes/gnv2023/images/google.png'></p>
+                </div>
+
+
+                <div>
+                    <h3> They have been extremely helpful and been working with us to set up new Corps and also close
+                        down others. Its nice to have a firm that cares. the followup has been fantastic.
+                    </h3>
+                    <p class="author">Keith F. via <img src='https://galeandvallance.com/wp-content/themes/gnv2023/images/yelp.png'></p>
+                </div>
+
+
+                <div>
+                    <h3> Helpful and personable. Very knowledge with very reasonable full service delivery.
+                        High level of communication and availability.
+                        Great network of referrals for other services.
+                    </h3>
+                    <p class="author">T Bey via <img src='https://galeandvallance.com/wp-content/themes/gnv2023/images/google.png'></p>
+                </div>
+
+
+                <div>
+                    <h3> Attorney Andy Gale and his team has been very helpful in getting my new corporation set up for
+                        a start-up medical practice. Andy has personally followed up with me to make sure everything is
+                        perfect and seamlessly helped to smooth out a few changes I needed made on the way.
+                    </h3>
+                    <p class="author"> Karl R. via <img src='https://galeandvallance.com/wp-content/themes/gnv2023/images/yelp.png'></p>
+                </div>
+
+
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<section class="section-featured-video">
+    <div class="video-holder">
+        <img src="https://galeandvallance.com/wp-content/themes/gnv2023/images/incorporation attorney california.png"
+            alt="incorporation attorney california">
+    </div>
+</section>
+
+<section class="section-contact-us">
+    <div class="container">
+        <div class="form">
+            <h1> Contact Us </h1>
+            <p> Waiting Could Be the Most Critical Thing For Your Corporation’s Protection </p>
+
+            <script type="text/javascript"></script>
+                <div class='gf_browser_chrome gform_wrapper gravity-theme gform-theme--no-framework' data-form-theme='gravity-theme' data-form-index='0' id='gform_wrapper_5' ><div id='gf_5' class='gform_anchor' tabindex='-1'></div><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_5' id='gform_5'  action='/#gf_5' data-formid='5' novalidate><div class='gf_invisible ginput_recaptchav3' data-sitekey='6Ldw1pQUAAAAAPPzOiqXqjQ8DTyp1PvciujV4CnH' data-tabindex='0'><input id="input_54a7a58d769a796b04efa67ec7347662" class="gfield_recaptcha_response" type="hidden" name="input_54a7a58d769a796b04efa67ec7347662" value=""/></div>
+                        <div class='gform-body gform_body'><div id='gform_fields_5' class='gform_fields top_label form_sublabel_below description_below validation_below'><div id="field_5_1" class="gfield gfield--type-text gf_left_third gfield--width-third gfield_contains_required field_sublabel_below gfield--no-description field_description_below hidden_label field_validation_below gfield_visibility_visible"  data-js-reload="field_5_1" ><label class='gfield_label gform-field-label' for='input_5_1'>Name<span class="gfield_required"><span class="gfield_required gfield_required_text">(Required)</span></span></label><div class='ginput_container ginput_container_text'><input name='input_1' id='input_5_1' type='text' value='' class='large'    placeholder='Name' aria-required="true" aria-invalid="false"   /> </div></div><div id="field_5_4" class="gfield gfield--type-email gfield--width-full gf_middle_third gfield--width-third gfield_contains_required field_sublabel_below gfield--no-description field_description_below hidden_label field_validation_below gfield_visibility_visible"  data-js-reload="field_5_4" ><label class='gfield_label gform-field-label' for='input_5_4'>Email<span class="gfield_required"><span class="gfield_required gfield_required_text">(Required)</span></span></label><div class='ginput_container ginput_container_email'>
+                            <input name='input_4' id='input_5_4' type='email' value='' class='large'   placeholder='Email' aria-required="true" aria-invalid="false"  />
+                        </div></div><div id="field_5_2" class="gfield gfield--type-text gfield--width-full gf_right_third gfield--width-third field_sublabel_below gfield--no-description field_description_below hidden_label field_validation_below gfield_visibility_visible"  data-js-reload="field_5_2" ><label class='gfield_label gform-field-label' for='input_5_2'>Phone</label><div class='ginput_container ginput_container_text'><input name='input_2' id='input_5_2' type='text' value='' class='large'    placeholder='Phone'  aria-invalid="false"   /> </div></div><div id="field_5_3" class="gfield gfield--type-text gfield--width-full gf_left_half gfield--width-half field_sublabel_below gfield--no-description field_description_below hidden_label field_validation_below gfield_visibility_visible"  data-js-reload="field_5_3" ><label class='gfield_label gform-field-label' for='input_5_3'>City</label><div class='ginput_container ginput_container_text'><input name='input_3' id='input_5_3' type='text' value='' class='large'    placeholder='City'  aria-invalid="false"   /> </div></div><div id="field_5_10" class="gfield gfield--type-select gfield--width-full gf_right_half gfield--width-half field_sublabel_below gfield--no-description field_description_below hidden_label field_validation_below gfield_visibility_visible"  data-js-reload="field_5_10" ><label class='gfield_label gform-field-label' for='input_5_10'>Untitled</label><div class='ginput_container ginput_container_select'><select name='input_10' id='input_5_10' class='large gfield_select'     aria-invalid="false" ><option value='' selected='selected' class='gf_placeholder'>State</option><option value='Alabama' >Alabama</option><option value='Alaska' >Alaska</option><option value='American Samoa' >American Samoa</option><option value='Arizona' >Arizona</option><option value='Arkansas' >Arkansas</option><option value='California' >California</option><option value='Colorado' >Colorado</option><option value='Connecticut' >Connecticut</option><option value='Delaware' >Delaware</option><option value='District of Columbia' >District of Columbia</option><option value='Florida' >Florida</option><option value='Georgia' >Georgia</option><option value='Guam' >Guam</option><option value='Hawaii' >Hawaii</option><option value='Idaho' >Idaho</option><option value='Illinois' >Illinois</option><option value='Indiana' >Indiana</option><option value='Iowa' >Iowa</option><option value='Kansas' >Kansas</option><option value='Kentucky' >Kentucky</option><option value='Louisiana' >Louisiana</option><option value='Maine' >Maine</option><option value='Maryland' >Maryland</option><option value='Massachusetts' >Massachusetts</option><option value='Michigan' >Michigan</option><option value='Minnesota' >Minnesota</option><option value='Mississippi' >Mississippi</option><option value='Missouri' >Missouri</option><option value='Montana' >Montana</option><option value='Nebraska' >Nebraska</option><option value='Nevada' >Nevada</option><option value='New Hampshire' >New Hampshire</option><option value='New Jersey' >New Jersey</option><option value='New Mexico' >New Mexico</option><option value='New York' >New York</option><option value='North Carolina' >North Carolina</option><option value='North Dakota' >North Dakota</option><option value='Northern Mariana Islands' >Northern Mariana Islands</option><option value='Ohio' >Ohio</option><option value='Oklahoma' >Oklahoma</option><option value='Oregon' >Oregon</option><option value='Pennsylvania' >Pennsylvania</option><option value='Puerto Rico' >Puerto Rico</option><option value='Rhode Island' >Rhode Island</option><option value='South Carolina' >South Carolina</option><option value='South Dakota' >South Dakota</option><option value='Tennessee' >Tennessee</option><option value='Texas' >Texas</option><option value='Utah' >Utah</option><option value='U.S. Virgin Islands' >U.S. Virgin Islands</option><option value='Vermont' >Vermont</option><option value='Virginia' >Virginia</option><option value='Washington' >Washington</option><option value='West Virginia' >West Virginia</option><option value='Wisconsin' >Wisconsin</option><option value='Wyoming' >Wyoming</option><option value='Armed Forces Americas' >Armed Forces Americas</option><option value='Armed Forces Europe' >Armed Forces Europe</option><option value='Armed Forces Pacific' >Armed Forces Pacific</option></select></div></div><div id="field_5_6" class="gfield gfield--type-textarea gfield--width-full field_sublabel_below gfield--no-description field_description_below hidden_label field_validation_below gfield_visibility_visible"  data-js-reload="field_5_6" ><label class='gfield_label gform-field-label' for='input_5_6'>Message</label><div class='ginput_container ginput_container_textarea'><textarea name='input_6' id='input_5_6' class='textarea medium'    placeholder='Message'  aria-invalid="false"   rows='10' cols='50'></textarea></div></div><div id="field_5_9" class="gfield gfield--type-hidden gfield--width-full gform_hidden field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible"  data-js-reload="field_5_9" ><div class='ginput_container ginput_container_text'><input name='input_9' id='input_5_9' type='hidden' class='gform_hidden'  aria-invalid="false" value='https://galeandvallance.com/' /></div></div><div id="field_5_11" class="gfield gfield--type-honeypot gform_validation_container field_sublabel_below gfield--has-description field_description_below field_validation_below gfield_visibility_visible"  data-js-reload="field_5_11" ><label class='gfield_label gform-field-label' for='input_5_11'>Name</label><div class='ginput_container'><input name='input_11' id='input_5_11' type='text' value='' autocomplete='new-password'/></div><div class='gfield_description' id='gfield_description_5_11'>This field is for validation purposes and should be left unchanged.</div></div></div></div>
+        <div class='gform_footer top_label'> <input type='submit' id='gform_submit_button_5' class='gform_button button' value='Submit'  onclick='if(window["gf_submitting_5"]){return false;}  if( !jQuery("#gform_5")[0].checkValidity || jQuery("#gform_5")[0].checkValidity()){window["gf_submitting_5"]=true;}  ' onkeypress='if( event.keyCode == 13 ){ if(window["gf_submitting_5"]){return false;} if( !jQuery("#gform_5")[0].checkValidity || jQuery("#gform_5")[0].checkValidity()){window["gf_submitting_5"]=true;}  jQuery("#gform_5").trigger("submit",[true]); }' /> <input type='hidden' name='gform_ajax' value='form_id=5&amp;title=&amp;description=&amp;tabindex=0&amp;theme=gravity-theme' />
+            <input type='hidden' class='gform_hidden' name='is_submit_5' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='5' />
+            
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_5' value='WyJ7XCIxMFwiOltcIjBhMmE1MGRhNjQ3MDJmMDgxOTcxM2FiNTI1ZDY3YTYxXCIsXCIxNTY5NDY0MTU0OTIwN2M1MjQ4OWNkNDM0NzViNjJlNVwiLFwiMjNhMDJkYmY2NzMyYzUzZDkyNGQ1NDEwZjczMjUzNjBcIixcIjEwNjAyMDVjOTAwNzY2NTkyMGExNjhlNDlmNDI5ZDUyXCIsXCJlOWM1NmU0MTk0ZGZiYWJjZWU2NTQzZDRjNWJkMWZiN1wiLFwiZTFlMTA3MDEyMTRlZjM3ZWNkNGFmMTc3ZGE2YTAzMDVcIixcIjVlOGMyNjE0YTkwNDhkOGFlMjFlZWVkNzY4YTU1MTA0XCIsXCIxNjhiMDk2ZjU0M2M0ZTJmNzBkZmE3NDM1ZjQzYTEzNVwiLFwiYjAyY2MyYTJiMzA2MmMwN2VkNTY5Y2Y2OTBmOGQ1NjNcIixcIjk0MzdmNDc1ZmI2ODZjMmUwYjdkNTQ5MDM4Y2NiNGRlXCIsXCI4MzNiMTI0YTNjNzU4ODVkMjI3OTMxMjU3NTU3MzFiMVwiLFwiYThmZjA3OWJmNmY1MjYwZGUwZjE4NzQ1MGMyYTQxZjlcIixcImRhY2MyYTZiOWY1OTRkMzgyNjExNGE0YzE4ZjA3YWNkXCIsXCIxMzg5YWJlY2M2YmU4YTc0OTc1MTQ5NmI0NzRmZTFiZVwiLFwiOWE4OGY3Y2U2YTM0NTVhMGRlMDg1OTFjMDYwNmI1NThcIixcIjI5NjA1YjVmNTRlMGE4Y2JkODNjYmM3YTFjMTk3NjI0XCIsXCJkYTQ0NzdjZDAzYWNiYWQxZDQ4YjZjOTg0YTdiNjM1M1wiLFwiY2U3OWNmZDJhM2IzNTA1ODc3NTYyNWJjMzUwOWNiNDBcIixcImEyNmEwZGEwODJlM2Q4ZDg4MDllNGRiMWFkOWE3MWI1XCIsXCJmMTBmZjZiM2UyZGViOWFjZTM3MGRhNjE3YTdjOGMzYVwiLFwiMDFlODEyMmYyZDNmMGM5Yjg5YzA1MDg0NzcyODgwZDFcIixcIjE4Y2IzMGQ5ZTIzZGE0ZjY2MWM2NWNjZjEyOTE4MTEyXCIsXCIxNjIxNWEzZDg1M2Y0OTRiOWZkODg1YjFhZWExMTdmY1wiLFwiM2Y1ODI5MmQ1OWUzYzc3NzUxZDVmMzVhNzkxNTIxYjVcIixcIjU2NTRkNmQ0MTdmZDBiNDU1NmNlYzY3YTFhZGVlOTQ3XCIsXCI0OGZmNjZkYzI0M2FiMzg0NTZiMTRkNjZhZjg0NDFjMVwiLFwiNzMwYmRjNmU2YWUwNTU0MGY1ODBhMWQ3M2NiODQ5YWJcIixcIjIyNmE2YzVlNzU1YmZiNDA1ZTg1OGY2YjczNTc2NjE2XCIsXCI5NjJjYmNmM2M4MjQ4OTdjYzQxYjJmYjFhNjViMjYyYVwiLFwiMGRkZDMwOGQ3MDg1ZjhhYjg0YzFjMTk4MWYyNTc2YTBcIixcIjQwZmYxYmM5Y2M3MjM3ZjRmNzQxNGJmYzg2NGI0NzBkXCIsXCI3YjJmYTg2MTUwZjBhNGJiNTdiNDY2NzQ2ZTkyMmU2MVwiLFwiMjdiZGJkNGFjZjhmZDcxOGI4Y2NiMzkwYTZhYTMyYTNcIixcIjYzZDMyZTk4MjgxZjEwM2Y1MjI5YmVhYzNlOWQ1NDFmXCIsXCJkZjA1YmRjOGU3ZWQ5OTQ4NDdhM2E0ZGQ1OWQ2MGIwZlwiLFwiYWRmYTczODI4NzU1MmVhNjJjMmE2OTUyOTk1ODBlMWRcIixcImQ4NjJlZDcxZjJhNzU4ZWZmOTdkMzA2ZTczNjBkMDhiXCIsXCJiZGNlMWFkZjcwOTYxMTNmYjE2NTViMDRkZGVjMjUyZVwiLFwiNDUyOGM1ZDdmZDZiNmVmNjY1Zjg1ODQyNWRmZWYxMjdcIixcImI0OTBlNzU4Yzg2N2ViOGRkMjRmNDAxNmQ2ZDY1YjFmXCIsXCJiNjgxZWQxZTkwOTAyYmQ4N2FiMmI5YTJkY2FiMjBjY1wiLFwiNjFkMzJiMjZlMGNhN2MyZjI0ZDgwNjg2N2ExZjJjOTZcIixcIjc5YmY4NTM4ZTNiMjc1OTdhNTY5NWYyMThjZTdiZjQzXCIsXCJiYmFkNTQ4ZGRmNjljYzMxMjUzOWJjNTI4NDZlYWExMlwiLFwiYmE4NDZmMjg5YjE1YmYyZjM2N2M5NzIxNGQ3YzBlYjhcIixcIjBlMTM3ZTk4MWNkYmRkMWFmZjU2ODgyMWZiMGVjN2Y1XCIsXCI4MjM3NjgyOGEwMWIwNzY5NGY4OGUzM2RlY2VlMGQ2ZlwiLFwiMWI2ODdkNmQyNDk3YTU0NzIxZTFkMjNhYzRkYTA5MGNcIixcImNkMTQzNDMwYzZkNTIwZTAwYzI0NDkyZTY2MDkzZjBmXCIsXCJiZDRjODMzZWZmODhmODMwNWFlYzIwNzliMzljOGE5MFwiLFwiYzlhYTNiZTY5NDA4MTgxYWJjOTcyMWRmZmY1Mjk1YTdcIixcIjgwMDM2Mjc5MzA1ZTk1NWEwMDY2OWM5MDcwNzkyNzQwXCIsXCIzMWY3ODcyNTZhODVhNTc3MDljNjlmN2Y5YTA2Yzk4ZlwiLFwiYmMxZWQ5OTUzNzJiZjc4NzQ0ZmNlNDVlYmM1ZTk1NzRcIixcImQ2YWJmZjYyYzQxZWI1YjQ3MWM3NjZkNTRhMGVkNGRkXCIsXCJmMzUzYjQwNzM3YmIyYzJiMjEzYzYzMzVjYTJiNTc2NVwiLFwiNjA2Njc5MmM0Y2RjMTVkMTJlZDI3MWIzNjkwYjcwNmZcIixcImRlMTk5ODRiZmJiNGQ0MzQ4YzQ2YWEwYjY5NTg5YjhlXCIsXCIyZjQ3MjJjM2FmMzM5NWVlOTU2MGNiNTlkNDkxZjA0ZFwiXX0iLCJlODJlMzM1M2ViMWM3NzMwOTEyZTlkMGE3YjIzYjJiYiJd' />
+            <input type='hidden' class='gform_hidden' name='gform_target_page_number_5' id='gform_target_page_number_5' value='0' />
+            <input type='hidden' class='gform_hidden' name='gform_source_page_number_5' id='gform_source_page_number_5' value='1' />
+            <input type='hidden' name='gform_field_values' value='' />
+            
+        </div>
+                        </form>
+                        </div>
+		                <iframe style='display:none;width:0px;height:0px;' src='about:blank' name='gform_ajax_frame_5' id='gform_ajax_frame_5' title='This iframe contains the logic required to handle Ajax powered Gravity Forms.'></iframe>
+		                <script type="text/javascript">
+gform.initializeOnLoaded( function() {gformInitSpinner( 5, 'https://galeandvallance.com/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery('#gform_ajax_frame_5').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_5');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_5').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_5').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_5').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_5').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_5').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_5').val();gformInitSpinner( 5, 'https://galeandvallance.com/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery(document).trigger('gform_page_loaded', [5, current_page]);window['gf_submitting_5'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}jQuery('#gform_wrapper_5').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_5').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [5]);window['gf_submitting_5'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_5').text());}else{jQuery('#gform_5').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger("gform_pre_post_render", [{ formId: "5", currentPage: "current_page", abort: function() { this.preventDefault(); } }]);                if (event && event.defaultPrevented) {                return;         }        const gformWrapperDiv = document.getElementById( "gform_wrapper_5" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( "span" );            visibilitySpan.id = "gform_visibility_test_5";            gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( "gform_visibility_test_5" );        let postRenderFired = false;                function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            jQuery( document ).trigger( 'gform_post_render', [5, current_page] );            gform.utils.trigger( { event: 'gform/postRender', native: false, data: { formId: 5, currentPage: current_page } } );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } );} );
+</script>
+
+        </div>
+    </div>
+</section>
+
+
+<section class="section-cta">
+    <div class="container-full">
+        <div class="flex-contain">
+            <div class="box box-1">
+                <div class="contain">
+                    <p class="site">Incorporationattorney.com</p>
+                    <h2> Overwhelmed with the legal aspects of setting up your business? </h2>
+                    <p> Need help to set up your business the smart way? </p>
+                </div>
+            </div>
+            <box class="box box-2">
+                <div class="contain">
+                    <h4> We are specialist attorneys who focus on the needs of small business owners</h4>
+                    <p class="button"><a href="https://galeandvallance.com/contacts/"> Get help to set-up your business
+                            today </a></p>
+                </div>
+            </box>
+        </div>
+    </div>
+</section>
+
+<!-- Show only on all pages except home page -->
+
+
+<footer>
+    <div class="container">
+
+        <div class="footer-logo"><a href="https://galeandvallance.com"><img class="dontshow"
+                    title="Gale & Vallance Attorneys at Law  &#13;1820 W Orangewood Ave Ste 104b &#13;Orange, California 92868-2059  &#13;+1 (714) 634-1414"
+                    src="https://galeandvallance.com/wp-content/themes/gnv2023/images/corporate lawyers gale and vallance.png"
+                    alt="corporate lawyers gale and vallance"></a></div>
+
+
+        <div class="flex-footer">
+            <div class="widget widget-1">
+
+                <h2> Contact Us </h2>
+                <p>Gale & Vallance Attorneys at Law <br>
+                    1820 W Orangewood Ave Ste 104b<br>
+                    Orange, California 92868-2059 <br>
+                    Phone: <a href="tel:+7146341414"> (714) 634-1414</a> <br>
+                    Fax: <a href="fax:+7147668456"> (714) 766-8456 </a> </p>
+            </div>
+            <div class="widget widget-2">
+                <h2> Helpful Links </h2>
+                <ul>
+                                        <ul id="menu-information-and-links" class=""><li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a href="https://galeandvallance.com/support/">Support</a></li>
+<li id="menu-item-28" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28"><a href="https://galeandvallance.com/disclaimer/">Disclaimer</a></li>
+<li id="menu-item-29" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29"><a href="https://galeandvallance.com/privacy-policy/">Privacy Policy</a></li>
+</ul>                </ul>
+            </div>
+
+            <div class="widget widget-3">
+                <h2> Find Us On Social Media </h2>
+                <ul>
+
+                    <li> <a target="_blank" href="http://www.yelp.com/biz/gale-and-vallance-attorneys-at-law-orange">
+                            <img src="https://galeandvallance.com/wp-content/themes/gnv2023/images/gale and vallance contact.png"
+                                alt="gale and vallance contact"> </a> </li>
+                    <li> <a target="_blank"
+                            href="https://www.google.com/search?client=safari&rls=en&q=Gale%26+Valance+Orange+ca&ie=UTF-8&oe=UTF-8#lrd=0x80dcd77bfe4c4dc7:0x6dddb7e261137a12,1">
+                            <img src="https://galeandvallance.com/wp-content/themes/gnv2023/images/contact corporate lawyers gale and vallance.png"
+                                alt="contact corporate lawyers gale and vallance"> </a> </li>
+
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="copyright">
+        <div class="container">
+            <p> © Copyright 2025 Gale and Vallance | All Rights Reserved | <a
+                    href="https://galeandvallance.com/review-us/">Review Us
+                </a></p>
+        </div>
+    </div>
+</footer>
+
+<link rel='stylesheet' id='gform_basic-css'  href='https://galeandvallance.com/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.8.18' type='text/css' media='all' />
+<link rel='stylesheet' id='gform_theme_components-css'  href='https://galeandvallance.com/wp-content/plugins/gravityforms/assets/css/dist/theme-components.min.css?ver=2.8.18' type='text/css' media='all' />
+<link rel='stylesheet' id='gform_theme_ie11-css'  href='https://galeandvallance.com/wp-content/plugins/gravityforms/assets/css/dist/theme-ie11.min.css?ver=2.8.18' type='text/css' media='all' />
+<link rel='stylesheet' id='gform_theme-css'  href='https://galeandvallance.com/wp-content/plugins/gravityforms/assets/css/dist/theme.min.css?ver=2.8.18' type='text/css' media='all' />
+<link rel='stylesheet' id='style-name-css'  href='https://galeandvallance.com/wp-content/plugins/hwp_review_badge//style.css?ver=6.0.10' type='text/css' media='all' />
+<script type='text/javascript' id='rocket-browser-checker-js-after'>
+"use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
+</script>
+<script type='text/javascript' id='rocket-preload-links-js-extra'>
+/* <![CDATA[ */
+var RocketPreloadLinksConfig = {"excludeUris":"\/(?:.+\/)?feed(?:\/(?:.+\/?)?)?$|\/(?:.+\/)?embed\/|\/(index.php\/)?(.*)wp-json(\/.*|$)|\/refer\/|\/go\/|\/recommend\/|\/recommends\/","usesTrailingSlash":"1","imageExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php","fileExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php|html|htm","siteUrl":"https:\/\/galeandvallance.com","onHoverDelay":"100","rateThrottle":"3"};
+/* ]]> */
+</script>
+<script type='text/javascript' id='rocket-preload-links-js-after'>
+(function() {
+"use strict";var r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:"init",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,"i"),images:RegExp(".("+this.config.imageExt+")$","i"),fileExt:RegExp(".("+this.config.fileExt+")$","i")},this._initListeners(this))}},{key:"_initListeners",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener("mouseover",e.listener.bind(e),e.listenerOptions),document.addEventListener("mousedown",e.listener.bind(e),e.listenerOptions),document.addEventListener("touchstart",e.listener.bind(e),e.listenerOptions)}},{key:"listener",value:function(e){var t=e.target.closest("a"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case"mousedown":case"touchstart":this._addPrefetchLink(n);break;case"mouseover":this._earlyPrefetch(t,n,"mouseout")}}},{key:"_earlyPrefetch",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:"_addPrefetchLink",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement("link");n.rel="prefetch",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:"_prepareUrl",value:function(e){if(null===e||"object"!==(void 0===e?"undefined":r(e))||!1 in e||-1===["http:","https:"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:"_getPathname",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith("/")||(n="/"+n),this._shouldAddTrailingSlash(n)?n+"/":n}},{key:"_shouldAddTrailingSlash",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith("/")&&!this.regex.fileExt.test(e)}},{key:"_isLinkOk",value:function(e){return null!==e&&"object"===(void 0===e?"undefined":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf("?")&&-1===e.href.indexOf("#")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:"run",value:function(){"undefined"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run();
+}());
+</script>
+<script type='text/javascript' id='gforms_recaptcha_recaptcha-js-extra'>
+/* <![CDATA[ */
+var gforms_recaptcha_recaptcha_strings = {"site_key":"6Ldw1pQUAAAAAPPzOiqXqjQ8DTyp1PvciujV4CnH","ajaxurl":"https:\/\/galeandvallance.com\/wp-admin\/admin-ajax.php","nonce":"ce21a5f8f3"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?render=6Ldw1pQUAAAAAPPzOiqXqjQ8DTyp1PvciujV4CnH&#038;ver=1.5.0' id='gforms_recaptcha_recaptcha-js'></script>
+<script type='text/javascript' id='gforms_recaptcha_recaptcha-js-after'>
+(function($){grecaptcha.ready(function(){$('.grecaptcha-badge').css('visibility','hidden');});})(jQuery);
+</script>
+<script type='text/javascript' id='sti-script-js-extra'>
+/* <![CDATA[ */
+var sti_vars = {"ajaxurl":"https:\/\/galeandvallance.com\/wp-admin\/admin-ajax.php","selector":"img","dontshow":".dontshow, .main-content .rll-youtube-player img","title":"","summary":"","url":"","tracking_url":"","title_source":["data_title","title","default_title","document_title"],"desc_source":["data_summary","caption","alt","default_desc"],"url_source":["data_url","page_url"],"minWidth":"200","minHeight":"200","scroll":"1","align":{"x":"left","y":"top"},"offset":{"x":"0","y":"0"},"orientation":"vertical","style":"flat-small","sharer":"https:\/\/galeandvallance.com\/wp-content\/plugins\/share-this-image-pro\/sharer.php","mobile_icon":"1","position":"image_hover","analytics":"1","buttons":{"desktop":["facebook","twitter","linkedin","pinterest","tumblr"],"mobile":["facebook","twitter","linkedin","pinterest","tumblr"]},"twitterVia":"","appId":"","emailSubject":"","emailBody":"","wp_page_title":"Welcome to our site","custom_data":[],"lang":{"embed":"Embed code","link":"Link","copy":"Copy","copied":"Copied"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://galeandvallance.com/wp-content/plugins/share-this-image-pro/assets/js/sti.js?ver=1.67' id='sti-script-js'></script>
+<script type='text/javascript' src='https://galeandvallance.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://galeandvallance.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' src='https://galeandvallance.com/wp-includes/js/dist/dom-ready.min.js?ver=d996b53411d1533a84951212ab6ac4ff' id='wp-dom-ready-js'></script>
+<script type='text/javascript' src='https://galeandvallance.com/wp-includes/js/dist/hooks.min.js?ver=c6d64f2cb8f5c6bb49caca37f8828ce3' id='wp-hooks-js'></script>
+<script type='text/javascript' src='https://galeandvallance.com/wp-includes/js/dist/i18n.min.js?ver=ebee46757c6a411e38fd079a7ac71d94' id='wp-i18n-js'></script>
+<script type='text/javascript' id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script type='text/javascript' src='https://galeandvallance.com/wp-includes/js/dist/a11y.min.js?ver=a38319d7ba46c6e60f7f9d4c371222c5' id='wp-a11y-js'></script>
+<script type='text/javascript' defer='defer' src='https://galeandvallance.com/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.8.18' id='gform_json-js'></script>
+<script type='text/javascript' id='gform_gravityforms-js-extra'>
+/* <![CDATA[ */
+var gform_i18n = {"datepicker":{"days":{"monday":"Mo","tuesday":"Tu","wednesday":"We","thursday":"Th","friday":"Fr","saturday":"Sa","sunday":"Su"},"months":{"january":"January","february":"February","march":"March","april":"April","may":"May","june":"June","july":"July","august":"August","september":"September","october":"October","november":"November","december":"December"},"firstDay":1,"iconText":"Select date"}};
+var gf_legacy_multi = [];
+var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file is not allowed. Must be one of the following:","delete_file":"Delete this file","in_progress":"in progress","file_exceeds_limit":"File exceeds size limit","illegal_extension":"This type of file is not allowed.","max_reached":"Maximum number of files reached","unknown_error":"There was a problem while saving the file on the server","currently_uploading":"Please wait for the uploading to complete","cancel":"Cancel","cancel_upload":"Cancel this upload","cancelled":"Cancelled"},"vars":{"images_url":"https:\/\/galeandvallance.com\/wp-content\/plugins\/gravityforms\/images"}};
+var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2,"code":"USD"},"base_url":"https:\/\/galeandvallance.com\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"https:\/\/galeandvallance.com\/wp-content\/plugins\/gravityforms\/images\/spinner.svg","version_hash":"85a5659537fd75e2262824c5534f9e3f","strings":{"newRowAdded":"New row added.","rowRemoved":"Row removed","formSaved":"The form has been saved.  The content contains the link to return and complete the form."}};
+/* ]]> */
+</script>
+<script type='text/javascript' defer='defer' src='https://galeandvallance.com/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.8.18' id='gform_gravityforms-js'></script>
+<script type='text/javascript' defer='defer' src='https://galeandvallance.com/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=2.8.18' id='gform_placeholder-js'></script>
+<script type='text/javascript' defer='defer' src='https://galeandvallance.com/wp-content/plugins/gravityforms/assets/js/dist/utils.min.js?ver=50c7bea9c2320e16728e44ae9fde5f26' id='gform_gravityforms_utils-js'></script>
+<script type='text/javascript' defer='defer' src='https://galeandvallance.com/wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.min.js?ver=54e7080aa7a02c83aa61fae430b9d869' id='gform_gravityforms_theme_vendors-js'></script>
+<script type='text/javascript' id='gform_gravityforms_theme-js-extra'>
+/* <![CDATA[ */
+var gform_theme_config = {"common":{"form":{"honeypot":{"version_hash":"85a5659537fd75e2262824c5534f9e3f"}}},"hmr_dev":"","public_path":"https:\/\/galeandvallance.com\/wp-content\/plugins\/gravityforms\/assets\/js\/dist\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' defer='defer' src='https://galeandvallance.com/wp-content/plugins/gravityforms/assets/js/dist/scripts-theme.min.js?ver=bab19fd84843dabc070e73326d787910' id='gform_gravityforms_theme-js'></script>
+<script type='text/javascript' src='https://galeandvallance.com/wp-content/plugins/gravityformsrecaptcha/js/frontend.min.js?ver=1.5.0' id='gforms_recaptcha_frontend-js'></script>
+<script type='text/javascript' src='https://galeandvallance.com/wp-content/plugins/hwp_review_badge//jquery-rb-plugin.js?ver=6.0.10' id='plugin-jquery-js'></script>
+<script type='text/javascript' src='https://galeandvallance.com/wp-content/plugins/hwp_review_badge/jquery.cookie.js?ver=6.0.10' id='jquery-cookie-js'></script>
+<script type="text/javascript">
+gform.initializeOnLoaded( function() { jQuery(document).on('gform_post_render', function(event, formId, currentPage){if(formId == 5) {if(typeof Placeholders != 'undefined'){
+                        Placeholders.enable();
+                    }jQuery( "#gform_5" ).on( 'submit', function( event ) {
+	jQuery( '<input>' )
+		.attr( 'type', 'hidden' )
+		.attr( 'name', 'gf_zero_spam_key' )
+		.attr( 'value', '0gNJCiNihwNkqC4Yia7WnoMIs1QAsMmK3uSSlx7fRkE8QHyvyBMOpnm7p6rm3f3R' )
+		.attr( 'autocomplete', 'new-password' )
+		.appendTo( jQuery( this ) );
+} );} } );jQuery(document).on('gform_post_conditional_logic', function(event, formId, fields, isInit){} ) } );
+</script>
+<script type="text/javascript">
+gform.initializeOnLoaded( function() {jQuery(document).trigger("gform_pre_post_render", [{ formId: "5", currentPage: "1", abort: function() { this.preventDefault(); } }]);                if (event && event.defaultPrevented) {                return;         }        const gformWrapperDiv = document.getElementById( "gform_wrapper_5" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( "span" );            visibilitySpan.id = "gform_visibility_test_5";            gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( "gform_visibility_test_5" );        let postRenderFired = false;                function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            jQuery( document ).trigger( 'gform_post_render', [5, 1] );            gform.utils.trigger( { event: 'gform/postRender', native: false, data: { formId: 5, currentPage: 1 } } );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } );
+</script>
+<script>window.lazyLoadOptions = {
+                elements_selector: "iframe[data-lazy-src]",
+                data_src: "lazy-src",
+                data_srcset: "lazy-srcset",
+                data_sizes: "lazy-sizes",
+                class_loading: "lazyloading",
+                class_loaded: "lazyloaded",
+                threshold: 300,
+                callback_loaded: function(element) {
+                    if ( element.tagName === "IFRAME" && element.dataset.rocketLazyload == "fitvidscompatible" ) {
+                        if (element.classList.contains("lazyloaded") ) {
+                            if (typeof window.jQuery != "undefined") {
+                                if (jQuery.fn.fitVids) {
+                                    jQuery(element).parent().fitVids();
+                                }
+                            }
+                        }
+                    }
+                }};
+        window.addEventListener('LazyLoad::Initialized', function (e) {
+            var lazyLoadInstance = e.detail.instance;
+
+            if (window.MutationObserver) {
+                var observer = new MutationObserver(function(mutations) {
+                    var image_count = 0;
+                    var iframe_count = 0;
+                    var rocketlazy_count = 0;
+
+                    mutations.forEach(function(mutation) {
+                        for (var i = 0; i < mutation.addedNodes.length; i++) {
+                            if (typeof mutation.addedNodes[i].getElementsByTagName !== 'function') {
+                                continue;
+                            }
+
+                            if (typeof mutation.addedNodes[i].getElementsByClassName !== 'function') {
+                                continue;
+                            }
+
+                            images = mutation.addedNodes[i].getElementsByTagName('img');
+                            is_image = mutation.addedNodes[i].tagName == "IMG";
+                            iframes = mutation.addedNodes[i].getElementsByTagName('iframe');
+                            is_iframe = mutation.addedNodes[i].tagName == "IFRAME";
+                            rocket_lazy = mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');
+
+                            image_count += images.length;
+			                iframe_count += iframes.length;
+			                rocketlazy_count += rocket_lazy.length;
+
+                            if(is_image){
+                                image_count += 1;
+                            }
+
+                            if(is_iframe){
+                                iframe_count += 1;
+                            }
+                        }
+                    } );
+
+                    if(image_count > 0 || iframe_count > 0 || rocketlazy_count > 0){
+                        lazyLoadInstance.update();
+                    }
+                } );
+
+                var b      = document.getElementsByTagName("body")[0];
+                var config = { childList: true, subtree: true };
+
+                observer.observe(b, config);
+            }
+        }, false);</script><script data-no-minify="1" async src="https://galeandvallance.com/wp-content/plugins/rocket-lazy-load/assets/js/16.1/lazyload.min.js"></script><script>function lazyLoadThumb(e,alt){var t='<img src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360">',a='<button class="play" aria-label="play Youtube video"></button>';t=t.replace('alt=""','alt="'+alt+'"');return t.replace("ID",e)+a}function lazyLoadYoutubeIframe(){var e=document.createElement("iframe"),t="ID?autoplay=1";t+=0===this.parentNode.dataset.query.length?'':'&'+this.parentNode.dataset.query;e.setAttribute("src",t.replace("ID",this.parentNode.dataset.src)),e.setAttribute("frameborder","0"),e.setAttribute("allowfullscreen","1"),e.setAttribute("allow", "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"),this.parentNode.parentNode.replaceChild(e,this.parentNode)}document.addEventListener("DOMContentLoaded",function(){var e,t,p,a=document.getElementsByClassName("rll-youtube-player");for(t=0;t<a.length;t++)e=document.createElement("div"),e.setAttribute("data-id",a[t].dataset.id),e.setAttribute("data-query", a[t].dataset.query),e.setAttribute("data-src", a[t].dataset.src),e.innerHTML=lazyLoadThumb(a[t].dataset.id,a[t].dataset.alt),a[t].appendChild(e),p=e.querySelector('.play'),p.onclick=lazyLoadYoutubeIframe});</script>
+
+
+<script>
+jQuery(function($) {
+    // console.log('ok!');
+    $('.section-featured-video').click(function() {
+        $this = $(this);
+        $this.find('.video-holder').html(
+            '<iframe width="450" height="248" src="https://www.youtube.com/embed/_ajnPW9ULpk?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe>'
+        );
+        $this.find('.video-holder img').remove();
+
+    });
+
+    $(".slider").bxSlider({
+        pager: true,
+        controls: false,
+        auto: true,
+        randomStart: true,
+        adaptiveHeight: true,
+        autoHover: true
+
+    });
+
+});
+</script>
+
+</body>
+
+</html>
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1756941443 -->
